@@ -3,4 +3,5 @@ git is free software.
 I am learning git.
 Remote is done!
 
-create a new branch is quick.
+create a new branch is quick and simple.
+
